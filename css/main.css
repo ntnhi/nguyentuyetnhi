@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+.carousel-indicators.active{
+	background-color: gold;
+}
+.carousel-inner img{
+	width: 100%;
+}
+.carousel-caption{
+	top:30%;
+}
+.welcome hr{
+	width: 90%;
+	border-top: 3px solid rgba(21,63,2,1.00);
+}
+.container-fluid img{
+	width: 100%;
+}
